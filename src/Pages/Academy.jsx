@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../Components/Sidebar";
 
 import dronefs1 from "../assets/DRONE FS -01.pdf";
 import dronefs2 from "../assets/DRONE FS -02.pdf";
